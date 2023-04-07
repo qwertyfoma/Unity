@@ -1,2 +1,0 @@
-C:\Users\ytrew\Downloads\Animation\obj\Debug\Assembly-CSharp.csproj.AssemblyReference.cache
-C:\Users\ytrew\Downloads\Animation\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
